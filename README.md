@@ -1,7 +1,5 @@
 Author: Morgan Lee, Raphael Dela Pena, Sean Bartolome
 
-Class: CSPC 233 Tutorial: T05 TA: Maryam Kermanshahani
-
 Description:
 
 An application that lets you track NBA player stats. Load a player data set that's already been created (players.csv) or input your own players with their team and stats. Once you have player data in the program, You can view the following options that will be outputted on either the main TextArea or mini TextArea:
